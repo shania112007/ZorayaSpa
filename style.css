@@ -1,0 +1,198 @@
+#maindiv{
+	width: 100%;
+	height: auto; overflow: hidden;
+	border: 3px solid white;
+	margin: auto;
+	background-color: black;
+}
+
+nav{width:500px;
+height:50px;
+background-color:white;
+float: right;
+
+
+}
+
+
+.mainhead{
+width:1300px;
+height:50px;
+background-color:;
+float: right;
+
+
+}
+
+ul{
+}
+	
+	ul li{
+
+		list-style: none;
+		display: inline-block;
+		padding:10px;
+		font-family: Amasis MT Pro Medium;
+		color: blue;
+	}
+
+	ul li a{
+
+		text-decoration:none;
+		display: block;
+		color: black;
+
+	}
+
+nav ul li a:hover{
+	color: lightblue;
+	transition:.4s;
+}
+.lopi-main{
+	width: 500px;
+	height: 50px;
+	
+}
+
+<div class="text1"><b>Productos de la cara<b/></div>
+<div class="gallery2">
+	<div class="content">
+		<img class="op"   src="C:\Users\Poder Judicial\Desktop\Farmasi\b7.jpg">
+		<p>Tee Tree skin care line</p>
+		<h6>$1000.00</h6>
+		<button class="bnt">Buy</button>
+	</div>
+
+	<div class="content2">	
+		<img class="op"  src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/b8.jpeg">
+		<p>Aqua skin care line</p>
+		<h6>$1000.00</h6>
+			<button class="bnt">Buy</button>
+	</div>
+
+	<div class="content2">
+		<img  class="op" src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/b13.jpeg">
+		<p>Acne skin care line</p>
+		<h6>$1000.00</h6>
+			<button class="bnt">Buy</button>
+	</div>
+
+	<div class="content2">
+		<img class="op"  src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/b17.jpg">
+		<p>Lumi Radiance</p>
+		<h6>$1000.00</h6>
+			<button class="bnt">Buy</button>
+	</div>
+</div>
+<br>
+<br>
+
+<div class="text2"><b>Maquillaje<b/></div>
+
+<div class="gallery">
+	<div class="content2">
+		<img class="op"   src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/c6.jpg">
+		<p class="lupo">Eyebrow tint</p>
+		<h6>$100.00</h6>
+		<button class="bnt">Buy</button>
+	</div>
+
+	<div class="content">
+		<img class="op"  src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/c4.webp">
+		<p>Eyebrow gel</p>
+		<h6>$200.00</h6>
+			<button class="bnt">Buy</button>
+	</div>
+
+
+	<div class="content">
+		<img  class="op" src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/c2.jpg">
+		<p>Higliter</p>
+		<h6>$300.00</h6>
+			<button class="bnt">Buy</button>
+	</div>
+
+	<div class="content">
+		<img class="op"  src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/b23.jpg">
+		<p>Eyeshadow palet</p>
+		<h6>$300.00</h6>
+			<button class="bnt">Buy</button>
+	</div>
+
+</div>
+
+<br>
+<br>
+<div class="text3">Productos de cabello</div>
+	<div class="gallery2">
+	<div class="content2">
+		<img class="op"   src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/b14.jpg">
+		<p>Hydarating hair line</p>
+		<h6>$500.00</h6>
+		<button class="bnt">Buy</button>
+	</div>
+
+	<div class="content2">
+		<img class="op"  src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/b16.jpg">
+		<p>Volumizing hair set</p>
+		<h6>$300.00</h6>
+			<button class="bnt">Buy</button>
+	</div>
+
+
+	<div class="content2">
+		<img  class="op" src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/fr7.jpg">
+		<p>Shampoo and Mask</p>
+		<h6>$400.00</h6>
+			<button class="bnt">Buy</button>
+	</div>
+
+	<div class="content2">
+		<img class="op"  src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/b2.jpg">
+		<p>Keratin hair line</p>
+		<h6>$650.00</h6>
+			<button class="bnt">Buy</button>
+	</div>
+</div>
+<br>
+<br>
+<div>
+	<center><div>Productos recomendados </div></center>
+</div>
+<div class="gallery2">
+	<div class="content2">
+		<img class="op"   src="file:///C:/Users/Zoraya/OneDrive/Documents/bobo(1).jpg">
+		<p>Eyebrow tint</p>
+		<h6>$100.00</h6>
+		<button class="bnt">Buy</button>
+	</div>
+
+	<div class="content2">
+		<img class="op"  src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/b10.webp">
+		<p>Eyebrow gel</p>
+		<h6>$200.00</h6>
+			<button class="bnt">Buy</button>
+	</div>
+
+
+	<div class="content2">
+		<img  class="op" src="file:///C:/Users/Zoraya/OneDrive/Desktop/Farmasi/fr9.jpg">
+		<p>Higliter</p>
+		<h6>$300.00</h6>
+			<button class="bnt">Buy</button>
+	</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+        <h1 class="h22">Servicios<h21>
+        	
+<br>
+<br>
+
+
